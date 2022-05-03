@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    /* more on this crazy alphanumerical value in a minute! */
+    color: #d1a42a;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+header {
+    padding: 20px 20px;
+    background-color: #2b38e7;
+  }
+  
+  header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce238;
+    margin: 0;  
+    text-align: center;
+  }
+  section {
+    padding: 50px;
+  }
+  .Detail h2 {
+    color: #024e76;
+    font-size: 46px;
+  }
+  .Detail {
+      height: 600px;
+      background-color: #eef096;
+  }
+  .Detail img {
+    height: 200px;
+  }
+  .Contact h3{
+    color: #ee5109;
+    font-size: 24px;
+  }
+  
